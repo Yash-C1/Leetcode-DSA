@@ -166,4 +166,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
