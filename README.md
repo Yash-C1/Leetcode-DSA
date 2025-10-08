@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
