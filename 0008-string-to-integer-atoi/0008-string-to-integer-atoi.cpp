@@ -1,40 +1,6 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        // int ans = 0;
-        // int i = 0;
-        // int n = s.size();
-        // bool neg = false;
-
-        // // Skip leading whitespaces
-        // while (i < n && s[i] == ' ') {
-        //     i++;
-        // }
-
-        // // Check for sign
-        // if (i < n && s[i] == '-') {
-        //     neg = true;
-        //     i++;
-        // } else if (i < n && s[i] == '+') {
-        //     i++;
-        // }
-
-        // // Process the digits
-        // while (i < n && s[i] >= '0' && s[i] <= '9') {
-        //     int digit = s[i] - '0';
-
-        //     // Check for overflow
-        //     if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && digit > INT_MAX % 10)) {
-        //         return neg ? INT_MIN : INT_MAX;
-        //     }
-
-        //     ans = ans * 10 + digit;
-        //     i++;
-        // }
-
-        // return neg ? -ans : ans;
-
-
         int ans = 0;
         bool sign_checked = false;
         bool negative = false;
@@ -63,20 +29,6 @@ public:
         }
 
         return negative ? -ans:ans;
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-        
+   
     }
 };
