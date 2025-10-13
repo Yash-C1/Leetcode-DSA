@@ -17,9 +17,16 @@ public:
         prev = mover;
         mover = temp;
         return helper(prev,mover);
-
     }
+
     ListNode* reverseList(ListNode* head) {
+        // Recursive solution
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* mover = head;
+        ListNode* prev = NULL;
+        return helper(prev,mover);
+
+        // Iterative solution
         // if(head==NULL || head->next==NULL) return head;
         // ListNode* mover = head;
         // ListNode* prev = NULL;
@@ -30,11 +37,5 @@ public:
         //     mover = temp;
         // }
         // return prev;
-
-        if(head==NULL || head->next==NULL) return head;
-        ListNode* mover = head;
-        ListNode* prev = NULL;
-        return helper(prev,mover);
-
     }
 };
