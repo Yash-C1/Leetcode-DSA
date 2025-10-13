@@ -24,5 +24,25 @@ public:
 
         odd->next = even_head;
         return head;
+
+
+        // Alternate approach
+
+        // if (!head || !head->next) return head;  // Handle edge cases
+    
+        // ListNode* odd = head;
+        // ListNode* even = head->next;
+        // ListNode* evenHead = even;  // Store the start of even list
+
+        // while (even && even->next) {  // Ensure even and even->next are not NULL
+        //     odd->next = even->next;
+        //     odd = odd->next;
+        //     even->next = odd->next;
+        //     even = even->next;
+        // }
+
+        // odd->next = evenHead;  // Connect odd and even lists
+
+        // return head;
     }
 };
