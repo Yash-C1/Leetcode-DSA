@@ -75,6 +75,7 @@
 | [0002-add-two-numbers](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
