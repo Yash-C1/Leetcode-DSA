@@ -8,7 +8,7 @@ public:
         helper(nums, i + 1, temp, ans);
         temp.push_back(nums[i]);
         helper(nums, i + 1, temp, ans);
-        temp.pop_back();  // backtrack
+        temp.pop_back(); 
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
