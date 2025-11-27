@@ -1,34 +1,25 @@
 class Solution {
+private:
+    int helper(const string &s, int i, long long num, int sign) {
+        if (i >= s.size() || !isdigit(s[i]))
+            return (int)(sign * num);
+
+        num = num * 10 + (s[i] - '0');
+
+        if (sign * num <= INT_MIN) return INT_MIN;
+        if (sign * num >= INT_MAX) return INT_MAX;
+
+        return helper(s, i + 1, num, sign);
+    }
 public:
-    int myAtoi(string s) {
-        int ans = 0;
-        bool sign_checked = false;
-        bool negative = false;
-        bool first_digit_checked = false;
-        for(int i=0;i<s.size();i++){
-            if(!sign_checked && !first_digit_checked && s[i]==' ') continue;
-            if(!sign_checked && !first_digit_checked && s[i]=='+') {
-                sign_checked = true;
-                continue;
-            }
-            if(!sign_checked && !first_digit_checked && s[i]=='-') {
-                negative = true;
-                sign_checked = true;
-                continue;
-            }
-            int digit = s[i]-'0';
-            if(digit>10 || digit<0) break;
-            else if(digit>=0 && digit<10){
-                first_digit_checked = true;
-                if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && digit > INT_MAX % 10)) {
-                    return negative ? INT_MIN : INT_MAX;
-                }
-                ans*=10;
-                ans+=digit;
-            }
+    int myAtoi(string s, int i = 0) {
+        while (i < s.size() && s[i] == ' ') i++;
+        int sign = 1;
+        if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
+            sign = (s[i] == '-') ? -1 : 1;
+            i++;
         }
 
-        return negative ? -ans:ans;
-   
+        return helper(s, i, 0, sign);
     }
 };
