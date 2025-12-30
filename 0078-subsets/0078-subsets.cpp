@@ -13,7 +13,7 @@ public:
 
         temp.push_back(ele);
         helper(nums, temp, ans);
-        temp.pop_back();
+        
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
