@@ -1,16 +1,16 @@
 class Solution {
 private:
-    void helper(set<vector<int>> &temp, vector<int>& candidates, int target, vector<int> &op, int index, int sum){
+    void helper(vector<vector<int>> &ans, vector<int>& candidates, int target, vector<int> &op, int index, int sum){
         if(index==candidates.size()){
-            if(sum==target) temp.insert(op);
+            if(sum==target) ans.push_back(op);
             return;
         }
         if(sum>target) return;
        
         op.push_back(candidates[index]);
-        helper(temp,candidates, target, op, index, sum+candidates[index]);
+        helper(ans,candidates, target, op, index, sum+candidates[index]);
         op.pop_back();
-        helper(temp,candidates, target, op, index+1, sum);
+        helper(ans,candidates, target, op, index+1, sum);
     }
 
 public:
@@ -20,10 +20,10 @@ public:
         vector<int> op;
         int index = 0;
         int sum = 0;
-        helper(temp,candidates,target,op,index,sum);
+        helper(ans,candidates,target,op,index,sum);
 
-        for (auto& x : temp)
-            ans.push_back(x);
+        // for (auto& x : temp)
+        //     ans.push_back(x);
 
         return ans;
     }
