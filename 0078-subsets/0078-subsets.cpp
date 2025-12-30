@@ -9,9 +9,9 @@ public:
         int ele = nums.back();
         nums.pop_back();
 
-        helper(nums, temp, ans);
-
         temp.push_back(ele);
+        helper(nums, temp, ans);
+        temp.pop_back();
         helper(nums, temp, ans);
         
     }
