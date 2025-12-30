@@ -15,16 +15,11 @@ private:
 
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        set<vector<int>> temp;
         vector<vector<int>> ans;
         vector<int> op;
         int index = 0;
         int sum = 0;
         helper(ans,candidates,target,op,index,sum);
-
-        // for (auto& x : temp)
-        //     ans.push_back(x);
-
         return ans;
     }
 };
