@@ -6,11 +6,11 @@ private:
             return;
         }
         if(sum>target) return;
-        vector<int> op1 = op;
-        vector<int> op2 = op;
-        op1.push_back(candidates[index]);
-        helper(temp,candidates, target, op1, index, sum+candidates[index]);
-        helper(temp,candidates, target, op2, index+1, sum);
+       
+        op.push_back(candidates[index]);
+        helper(temp,candidates, target, op, index, sum+candidates[index]);
+        op.pop_back();
+        helper(temp,candidates, target, op, index+1, sum);
     }
 
 public:
