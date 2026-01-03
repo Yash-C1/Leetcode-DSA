@@ -1,33 +1,33 @@
 class Solution {
 public:
-    void helper(double &x, double &ans, long n){
-        if(n<=0) return;
-        if(n%2==0){
-            x*=x;
-            n/=2;
-        }else{
-            ans*=x;
-            n--;
-        }
-        helper(x,ans,n);
-    }
+    
     double myPow(double x, int n) {
-        long abs_n = labs(n);
-        double ans = 1;
-        helper(x,ans,abs_n);
+        bool flag = false;
+        bool neg = false;
+        long m = (long) n;
+        if(m<0){
+            flag = true;
+            m = abs(m);
+        }
+        if(x<0){
+            if(m%2!=0) neg = true;
+            x = abs(x);
+        }
 
-        // while(abs_n>0){
-        //     if(abs_n%2==0){
-        //         x*=x;
-        //         abs_n/=2;
-        //     }else{
-        //         ans*=x;
-        //         abs_n--;
-        //     }
-        // }
-        
-        ans = (n>0) ? ans : (1/ans);
-        return ans;
+        double ans = 1;
+        while(m!=0){
+            if(m%2==0){
+                x = x*x;
+                m /= 2;
+            }else{
+                ans *= x;
+                m--;
+            }
+        }
+        if(flag) ans = 1/ans;
+
+        return (neg ? -1*ans : ans);
+
     }
 };
 
