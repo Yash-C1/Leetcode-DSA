@@ -56,6 +56,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -261,6 +262,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -341,4 +343,5 @@
 | [0496-next-greater-element-i](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
