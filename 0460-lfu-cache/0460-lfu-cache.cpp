@@ -65,11 +65,6 @@ public:
         else{
             ans = keyNodeMap[key]->val;
             int freq = keyNodeMap[key]->freq;
-            // remove_node(keyNodeMap[key]);
-            // if(check_empty(FreqListMap[freq])){
-            //     if(freq==min_freq) min_freq++;
-            //     FreqListMap.erase(freq);
-            // }
             put(key, ans);
         }
         return ans;
