@@ -20,12 +20,6 @@ public:
             j++;
         }
 
-        // while(i<=s.length()-1 && mpp[s[j-1]]==2){
-        //     mpp[s[j]]--;
-        //     i++;
-        // }
-        // ans = max(ans, j-i+1);
-
         return ans;
     }
 };
