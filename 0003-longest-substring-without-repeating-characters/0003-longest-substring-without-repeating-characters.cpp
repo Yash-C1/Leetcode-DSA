@@ -4,11 +4,11 @@ public:
         int max_len = 0;
         int l = 0;
         int r = 0;
-        unordered_map<char,int> mpp;
+        vector<int> hash(256, -1);
 
         while(r<s.length()){
-            if(mpp.find(s[r])!=mpp.end()) l = max(l,mpp[s[r]]+1);
-            mpp[s[r]] = r;
+            if(hash[s[r]]!=-1) l = max(l,hash[s[r]]+1);
+            hash[s[r]] = r;
             max_len = max(max_len, r-l+1);
             r++;
         }
