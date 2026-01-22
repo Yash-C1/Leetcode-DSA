@@ -12,10 +12,10 @@ public:
             if((r-l+1) - max_freq > k) {
                 hash[s[l]-'A']--;
                 l++;
-                max_freq = 0;
-                for(int i=0;i<hash.size();i++){
-                    max_freq = max(max_freq, hash[i]);
-                }
+                // max_freq = 0;
+                // for(int i=0;i<hash.size();i++){
+                //     max_freq = max(max_freq, hash[i]);
+                // }
             }
             max_len = max(max_len, r-l+1);
             r++;
