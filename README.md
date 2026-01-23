@@ -52,6 +52,7 @@
 | [0792-binary-search](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -118,6 +119,7 @@
 | [0460-lfu-cache](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -213,6 +215,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
@@ -382,5 +385,6 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
