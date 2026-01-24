@@ -57,6 +57,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -222,6 +223,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -395,4 +397,5 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
