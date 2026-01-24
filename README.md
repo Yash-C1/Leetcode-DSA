@@ -55,6 +55,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
@@ -97,6 +98,7 @@
 | [0204-count-primes](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -120,6 +122,7 @@
 | [0496-next-greater-element-i](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -217,6 +220,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -387,4 +391,5 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
