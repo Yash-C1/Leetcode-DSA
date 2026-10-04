@@ -250,6 +250,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0649-dota2-senate](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [2032-largest-odd-number-in-string](https://github.com/Yash-C1/Leetcode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -269,6 +270,7 @@
 | [0402-remove-k-digits](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-C1/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -372,6 +374,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Yash-C1/Leetcode-DSA/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
 | ------- |
